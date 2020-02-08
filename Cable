@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1,NL | US
-https://peer5.ustv.to/FoxNews/myStream/chunks.m3u8?nimblesessionid=14480554&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjAgMzo1Njo0MSBQTSZoYXNoX3ZhbHVlPUNkQVIwS3I1L09wOGZ1SWZOUGJHeWc9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+#EXTINF:0 tvg-id="lnk-lt" group-title="CABLE",A&E
+https://peer3.ustv.to/AE/myStream/chunks.m3u8?nimblesessionid=119699336&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjAgNDozNToyOSBQTSZoYXNoX3ZhbHVlPWZFeHY5ZlJTRWYrV2Y0SjRTS1Fwb1E9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w
+#EXTINF:0 tvg-id="lnk-lt" group-title="CABLE",AMC
+https://peer5.ustv.to/AMC/myStream/chunks.m3u8?nimblesessionid=14514709&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjAgNDo1MjoxMyBQTSZoYXNoX3ZhbHVlPTN3b1k0aFdBYnBLYXc4dHh5bDVvOGc9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZzdHJtX2xlbj0w

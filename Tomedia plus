@@ -23,6 +23,12 @@ http://185.176.117.243/live/eds/TV8_LT_SD/HLS_encr/index.m3u8
 #EXTINF:8 tvg-id="ext" group-title="LT TV",08 Epic Drama LT
 http://185.176.117.242/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
 
+
+
+
+#EXTINF:12,Three New Zealand
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_720.m3u8
+
 #EXTINF:13,PBS USA
 http://190.80.3.28/PBS/PBS.isml/PBS-audio_120052_eng=120000-video=1870000.m3u8
 
@@ -264,79 +270,79 @@ https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m
 http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=500000.m3u8
 
 
-#EXTINF:0 tvg-id="mbu" group-title="Music",MUSIC MusicBox UA
+#EXTINF:0 tvg-id="mbu" group-title="Music",MusicBox UA
 http://212.26.132.86/hls/mb_ua_2500.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-id="TraceAFRICA.fr" group-title="Music",MUSIC Trace Africa
+#EXTINF:0 tvg-id="TraceAFRICA.fr" group-title="Music",Trace Africa
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-id="TraceKitoko.fr" group-title="Music",MUSIC Trace Kitoko
+#EXTINF:0 tvg-id="TraceKitoko.fr" group-title="Music",Trace Kitoko
 https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-id="TraceMziki.fr" group-title="Music",MUSIC Race Mziki
+#EXTINF:0 tvg-id="TraceMziki.fr" group-title="Music",Race Mziki
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
 
-#EXTINF:0 tvg-id="TraceNaija.fr" group-title="Music",MUSIC Trace Naija
+#EXTINF:0 tvg-id="TraceNaija.fr" group-title="Music",Trace Naija
 https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-id="TraceToca.fr" group-title="Music",MUSIC Trace Toca
+#EXTINF:0 tvg-id="TraceToca.fr" group-title="Music",Trace Toca
 https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-id="TraceTropical.fr" group-title="Music",MUSIC Trace Tropical
+#EXTINF:0 tvg-id="TraceTropical.fr" group-title="Music",Trace Tropical
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-id="BoxHits.uk" group-title="Music",MUSIC Box Hits
+#EXTINF:0 tvg-id="BoxHits.uk" group-title="Music",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Entertainment", Nattional Geo Wild
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Entertainment",Nattional Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
 #EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Entertainment",National Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 
-#EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us" group-title="News",NEWS NBC
+#EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us" group-title="News",NBC
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 
 #EXTINF:0 tvg-id="FineLiving.ru" group-title="Entertainment",Fine Living
 http://70.32.0.9:5000/live/543/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC MTV (Latin America)
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV (Latin America)
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC MTV Norge
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV Norge
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 
-#EXTINF:0 tvg-id="SkyNews.uk" group-title="News",NEWS Sky News
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="News",Sky News
 http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-id="RussiaToday.uk" group-title="News",NEWS RT UK
+#EXTINF:0 tvg-id="RussiaToday.uk" group-title="News",RT UK
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 
-#EXTINF:0 tvg-id="CNBC.nws" group-title="News",NEWS CNBC
+#EXTINF:0 tvg-id="CNBC.nws" group-title="News",CNBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/master.m3u8
 
-#EXTINF:0 tvg-id="CNBC.nws" group-title="Movies",MOVIES ENT CNBC
+#EXTINF:0 tvg-id="CNBC.nws" group-title="Movies",ENT CNBC
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
 
 #EXTINF:0 tvg-id="CNBC.nws" group-title="Entertainment",DOCUBOX
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="News",NEWS NewsNet
+#EXTINF:0 tvg-id="ext" group-title="News",NewsNet
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 
-#EXTINF:0 tvg-id="RussiaToday.uk" group-title="News",NEWS RT America
+#EXTINF:0 tvg-id="RussiaToday.uk" group-title="News",RT America
 https://rt-usa.secure.footprint.net/1105.m3u8
 
 #EXTINF:0 tvg-id="pop.uk" group-title="Movies",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 
-#EXTINF:0 tvg-id="CMC.hr" group-title="Music",MUSIC CMC
+#EXTINF:0 tvg-id="CMC.hr" group-title="Music",CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC CMC US
+#EXTINF:0 tvg-id="ext" group-title="Music",CMC US
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES Screamfest
+#EXTINF:0 tvg-id="ext" group-title="Movies",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",Dove Channel
@@ -345,10 +351,7 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/maste
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:0 tvg-id="TennisChannel.us" group-title="Sport",SPORT Tennis
+#EXTINF:0 tvg-id="TennisChannel.us" group-title="Sport",Tennis
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",TSTV
@@ -360,13 +363,13 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",Xcorps TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT The Asylum
+#EXTINF:0 tvg-id="ext" group-title="Sport",The Asylum
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
 
-#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Kids",KIDS Cartoon Network
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Kids",Cartoon Network
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
 
-#EXTINF:0 tvg-id="CBeebies.uk" group-title="Kids",KIDS CBeebies
+#EXTINF:0 tvg-id="CBeebies.uk" group-title="Kids",CBeebies
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Kids",Knowledge Kids
@@ -378,73 +381,74 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT Dubai Racing
+#EXTINF:0 tvg-id="ext" group-title="Sport",Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT Flow Sp1
+#EXTINF:0 tvg-id="ext" group-title="Sport",Flow Sp1
 http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT Fox HD
+#EXTINF:0 tvg-id="ext" group-title="Sport",Fox HD Sport
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT Olympic
+#EXTINF:0 tvg-id="ext" group-title="Sport",Olympic
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 
-#EXTINF:0 tvg-id="RacingUK.uk" group-title="Sport",SPORT Racing
+#EXTINF:0 tvg-id="RacingUK.uk" group-title="Sport",Racing
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT SportsMax
+
+#EXTINF:0 tvg-id="ext" group-title="Sport",Sports Max
 http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT World Of Free
+#EXTINF:0 tvg-id="ext" group-title="Sport",World Of Free
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC SP1
+#EXTINF:0 tvg-id="ext" group-title="Music",SP1
 https://nrpus.bozztv.com/36bay2/gusa-cjc/index.m3u8
 
 #EXTINF:0 tvg-id="AutoMotoTV.it" group-title="Entertainment",Automoto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES 24/7 Friends
+#EXTINF:0 tvg-id="ext" group-title="Movies",24/7 Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES 24/7 Marvel
+#EXTINF:0 tvg-id="ext" group-title="Movies",24/7 Marvel
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES 24/7 Resident Evil Movies
+#EXTINF:0 tvg-id="ext" group-title="Movies",24/7 Resident Evil Movies
 https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES 24/7 Sci-Fi Movies
+#EXTINF:0 tvg-id="ext" group-title="Movies",24/7 Sci-Fi Movies
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES 24/7 The Big Bang Theory
+#EXTINF:0 tvg-id="ext" group-title="Movies",24/7 The Big Bang Theory
 https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
 MOVIES29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES Hollywood 1
+#EXTINF:0 tvg-id="ext" group-title="Movies",Hollywood 1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES Hollywood 2
+#EXTINF:0 tvg-id="ext" group-title="Movies",Hollywood 2
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES Hollywood 3
+#EXTINF:0 tvg-id="ext" group-title="Movies",Hollywood 3
 https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES Hollywood 4
+#EXTINF:0 tvg-id="ext" group-title="Movies",Hollywood 4
 http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",MUSIC 30a TV
+#EXTINF:0 tvg-id="ext" group-title="Entertainment", 30A TV
 http://30a-tv.com/music.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",RU 360
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",360 RU
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",RU A1 Amedia TV
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",A1 Amedia TV RU
 http://ott-cdn.ucom.am/s45/index.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",RU A2 Amedia TV
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",A2 Amedia TV RU
 http://ott-cdn.ucom.am/s33/index.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",RU All Ufa
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",All Ufa RU
 http://hls-mycdn0539860594.cdnvideo.ru/mycdn0539860594/allufaru2/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Bridge
@@ -453,148 +457,148 @@ http://ott-cdn.ucom.am/s34/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Bridge RU 
 http://ott-cdn.ucom.am/s78/index.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",RU Buy Home
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Buy Home RU
 http://hls-edge.cdn.buy-home.tv/bhtvlive/_definst_/live/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT RU Fast & Fun
+#EXTINF:0 tvg-id="ext" group-title="Sport",Fast & Fun RU
 http://ott-cdn.ucom.am/s79/index.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT AUF
+#EXTINF:0 tvg-id="ext" group-title="Sport",AUF
 https://nrpus.bozztv.com/36bay2/gusa-auftv/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Auto Play
+#EXTINF:0 tvg-id="ext" group-title="Music",Auto Play
 https://nrpus.bozztv.com/36bay2/gusa-autoplay/index.m3u8
 
 #EXTINF:0 tvg-id="BYUtv.us" group-title="Entertainment",TV BYU
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Baeble
+#EXTINF:0 tvg-id="ext" group-title="Music",Baeble
 https://dl.dropboxusercontent.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=0
 
-#EXTINF:0 tvg-id="ext" group-title="Music",Music BL Artist
+#EXTINF:0 tvg-id="ext" group-title="Music",BL Artist
 https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Blues
+#EXTINF:0 tvg-id="ext" group-title="Music",Blues
 https://nrpus.bozztv.com/36bay2/gusa-btn/index.m3u8
 
-#EXTINF:0 tvg-id="Boomerang.uk" group-title="Kids",KIDS Boomerang
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="Kids",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="News",NEWS CBS
+#EXTINF:0 tvg-id="ext" group-title="News",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Movies",Cheddar
 https://live.chdrstatic.com/cbn/primary/1.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIc Country 4U
+#EXTINF:0 tvg-id="ext" group-title="Music",Country 4U
 https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Dancestar TV
+#EXTINF:0 tvg-id="ext" group-title="Music",Dancestar TV
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT ESPN (New!)
+#EXTINF:0 tvg-id="ext" group-title="Sport",ESPN
 http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="H2.uk" group-title="Entertainment",HISTORY H2
+#EXTINF:0 tvg-id="H2.uk" group-title="Entertainment",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Hot Rock
+#EXTINF:0 tvg-id="ext" group-title="Music",Hot Rock
 https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",RU Accent TV
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Accent TV RU
 http://video.a-tv.md/hls/accent.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Afrobeats
+#EXTINF:0 tvg-id="ext" group-title="Music",Afrobeats
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES BritCom
+#EXTINF:0 tvg-id="ext" group-title="Movies",BritCom
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT Horizon Sp
+#EXTINF:0 tvg-id="ext" group-title="Sport",Horizon Sp
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Alegria TV
+#EXTINF:0 tvg-id="ext" group-title="Music",Alegria TV
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Arabica
+#EXTINF:0 tvg-id="ext" group-title="Music",Arabica
 http://95.170.215.109/hls/m3u8/Arabica-Backup.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="News",NEWS Australia
+#EXTINF:0 tvg-id="ext" group-title="News",Australia News
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES BL Cinema
+#EXTINF:0 tvg-id="ext" group-title="Movies",BL Cinema
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES Classic
+#EXTINF:0 tvg-id="ext" group-title="Movies",Classic Movies
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES BL Jesus
+#EXTINF:0 tvg-id="ext" group-title="Movies",BL Jesus
 http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Brandnite
+#EXTINF:0 tvg-id="ext" group-title="Music",Brandnite
 https://fluxustv.blogspot.com@bit.ly/BrandniteTV?.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Company
+#EXTINF:0 tvg-id="ext" group-title="Music",Company
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC DJing Hedonist
+#EXTINF:0 tvg-id="ext" group-title="Music",DJing Hedonist
 http://www.djing.com/tv/session_hedonist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC DJing Hits
+#EXTINF:0 tvg-id="ext" group-title="Music",DJing Hits
 https://www.djing.com/tv/hits.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC DJing Karaoke
+#EXTINF:0 tvg-id="ext" group-title="Music",DJing Karaoke
 https://www.djing.com/tv/karaoke.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC DJing Live
+#EXTINF:0 tvg-id="ext" group-title="Music",DJing Live
 https://www.djing.com/tv/live.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC DJing Summer Vibes
+#EXTINF:0 tvg-id="ext" group-title="Music",DJing Summer Vibes
 https://www.djing.com/tv/session_summer-vibes.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC DJing Underground
+#EXTINF:0 tvg-id="ext" group-title="Music",DJing Underground
 https://www.djing.com/tv/underground.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC GO TV
+#EXTINF:0 tvg-id="ext" group-title="Music",GO TV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Top Latino TV
+#EXTINF:0 tvg-id="ext" group-title="Music",Top Latino TV
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Mango
+#EXTINF:0 tvg-id="ext" group-title="Music",Mango
 http://mangotv01.streamprolive.com/hls/live.m3u8
 
-#EXTINF:0 tvg-id="MoozHD.ro" group-title="Music",MUSIC Mooz HD
+#EXTINF:0 tvg-id="MoozHD.ro" group-title="Music",Mooz HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/18.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
 
-#EXTINF:0 tvg-id="MoozDance.ro" group-title="Music",MUSIC Mooz Dance
+#EXTINF:0 tvg-id="MoozDance.ro" group-title="Music",Mooz Dance
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/18.m3u8/Level(545259)?start=LIVE&end=END
 
-#EXTINF:0 tvg-id="MoozHits.ro" group-title="Music",MUSIC Mooz Hits
+#EXTINF:0 tvg-id="MoozHits.ro" group-title="Music",Mooz Hits
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/18.m3u8/Level(545259)?start=LIVE&end=END
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Mooz Ro!
+#EXTINF:0 tvg-id="ext" group-title="Music",Mooz Ro!
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
 
-#EXTINF:0 tvg-id="muz-tv" group-title="Music",MUSIC Muz-TV RU
+#EXTINF:0 tvg-id="muz-tv" group-title="Music",Muz-TV RU
 http://ott-cdn.ucom.am/s28/index.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",RU TNT International
+#EXTINF:0 tvg-id="ext" group-title="Movies",TNT International RU
 http://ott-cdn.ucom.am/s19/04.m3u8
 
-#EXTINF:-1,MUSIC Kanals 2
+#EXTINF:-1,Kanals 2
 http://185.176.117.242/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD.m3u8
 
 #EXTINF:-1,3+ RU
 http://185.176.117.242/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD.m3u8
 
-#EXTINF:-1,KIDS Disney Channel 
+#EXTINF:-1,Disney Channel 
 http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 
-#EXTINF:-1,KIDS Nicktoons RU
+#EXTINF:-1,Nicktoons RU
 http://185.176.117.242/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
 
 #EXTINF:-1,Viasat Nature
@@ -602,6 +606,3 @@ http://185.176.117.242/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",X Jasmin TV
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-
-#EXTINF:12,Three New Zealand
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_720.m3u8

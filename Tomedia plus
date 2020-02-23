@@ -54,9 +54,6 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBO
 #EXTINF:23,HBO Signature
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature-avc1_2499968=7-HBOSignature-mp4a_98800_eng=3.m3u8
 
-#EXTINF:24,Cinemax HD
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-CinemaxHD-mp4a_98800_eng=3.m3u8
-
 #EXTINF:25,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 
@@ -102,8 +99,6 @@ http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:58,FOX Life
 https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_ind=2.m3u8
 
-#EXTINF:59,FOX
-https://anevia115.mncnow.id:443/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_499968=13-FoxChannel-mp4a_98800_eng=3.m3u8
 
 #EXTINF:60,Diva
 http://ott.artmott.com/DIVA/tracks-v1a1/mono.m3u8
@@ -129,17 +124,12 @@ http://ott.artmott.com/CBS-Reality/tracks-v1a1/mono.m3u8
 #EXTINF:70,Filmbox
 https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
 
-#EXTINF:74,Fox Sports
-https://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
-
 #EXTINF:75,Fox Sports 2
 https://anevia115.mncnow.id:443/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
 
 #EXTINF:78,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#EXTINF:79,BEIN Sports
-https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
 
 #EXTINF:80,Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
@@ -168,17 +158,12 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/chunkl
 #EXTINF:91,World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcint/playlist_sdlow.m3u8
 
-#EXTINF:97,Outdoor
-https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8
-
 #EXTINF:99,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
 #EXTINF:100,BBC Earth
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
 
-#EXTINF:101,Newsy
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 
 #EXTINF:108,InfoWars
 https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/chunklist_b866304.m3u8
@@ -216,7 +201,7 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3
 #EXTINF:0 tvg-id="TraceKitoko.fr" group-title="Music",Trace Kitoko
 https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-id="TraceMziki.fr" group-title="Music",Race Mziki
+#EXTINF:0 tvg-id="TraceMziki.fr" group-title="Music",Trace Mziki
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
 
 #EXTINF:0 tvg-id="TraceNaija.fr" group-title="Music",Trace Naija
@@ -231,7 +216,7 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.
 #EXTINF:0 tvg-id="BoxHits.uk" group-title="Music",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Entertainment",Nattional Geo Wild
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Entertainment",National Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
 #EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us" group-title="News",NBC
@@ -258,8 +243,6 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:0 tvg-id="RussiaToday.uk" group-title="News",RT America
 https://rt-usa.secure.footprint.net/1105.m3u8
 
-#EXTINF:0 tvg-id="pop.uk" group-title="Movies",Pop
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 
 #EXTINF:0 tvg-id="CMC.hr" group-title="Music",CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
@@ -312,8 +295,6 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:0 tvg-id="RacingUK.uk" group-title="Sport",Racing
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sport",Sports Max
-http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Sport",World Of Free
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
@@ -327,15 +308,9 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movies",24/7 Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",24/7 Resident Evil Movies
-https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Movies",24/7 Sci-Fi Movies
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",24/7 The Big Bang Theory
-https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
-MOVIES29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Movies",Hollywood 1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8

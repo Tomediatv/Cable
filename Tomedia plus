@@ -1,4 +1,79 @@
 #EXTM3U 
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",UK - Disney Channel
+http://securetv.net:8080/live/zguyMk8K8P/7602260256/1272.m3u8
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",UK - Disney XD
+http://securetv.net:8080/live/zguyMk8K8P/7602260256/1270.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids",Disney Junior East (USA)
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/370.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids",Disney Junior West (USA)
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/371.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Disney XD
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6926.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids",Disney XD (MEX)
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/794.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids",Disney XD East (USA)
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/372.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO
+http://securetv.net:8080/zguyMk8K8P/7602260256/15913
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2 West
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6305.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO COMEDY HD1
+http://securetv.net:8080/live/zguyMk8K8P/7602260256/23303.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy East1
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/29.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO East1
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6345.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO FAMILY HD1
+http://securetv.net:8080/live/zguyMk8K8P/7602260256/23301.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Family
+http://securetv.net:8080/live/zguyMk8K8P/7602260256/22516.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Family West1
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6307.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO HD1
+http://securetv.net:8080/live/zguyMk8K8P/7602260256/23300.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO POP
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9486.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature1
+http://securetv.net:8080/live/zguyMk8K8P/7602260256/15915.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature West
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6308.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO West
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6237.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO West
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6346.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO XTREME
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9487.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO ZONE HD1
+http://securetv.net:8080/live/zguyMk8K8P/7602260256/23299.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Zone West
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6309.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Wowza3 HBO PLUS
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9278.m3u8
+
 #EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",AU | Fox Sports News,Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 

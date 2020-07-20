@@ -17,9 +17,6 @@ http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6926.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids",Disney XD (MEX)
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/794.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids",Disney XD East (USA)
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/372.m3u8
-
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO
 http://securetv.net:8080/zguyMk8K8P/7602260256/15913
 
@@ -229,5 +226,115 @@ http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/4951.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN Sports 3 (Australia)
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/4952.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 AMERICAN PIE
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6058.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 ARNOLD SCHWARZENEGGER
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6059.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 BANSHEE
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6116.m3u8
+
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 CRIMINAL MINDS
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6110.m3u8
+
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 EDDIE MURPHY
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6066.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 FAST N FURIOUS
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6067.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 FUTURAMA
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/5998.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Fight TV
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6369.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 HOMELAND
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6149.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 HOUSE MD
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6150.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 IMAX DOCUMENTARY
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6151.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 INK MASTER
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6153.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 JURASSIC PARK MOVIES
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6073.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 KEVIN COSTNER
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6075.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 LEONARDO DiCAPRIO
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6076.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 LIAM NEESON MOVIES
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6078.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 LION KING MOVIES
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6162.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 MAJOR LEAGUE MOVIES
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6079.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 MARVEL INFINITY WARS
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6080.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 MASH
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6158.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 MY GHOST STORYS
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6018.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 PAW Patrol
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6021.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 RESIDENT EVIL MOVIES
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6083.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 STAR WARS REBELS
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6206.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 STARGATE ATLANTIS
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6036.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 STRANGER THINGS
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6203.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 STREET OUTLAWS
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6202.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 THE AMAZING WORLD OF GUMBALL
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6039.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 THE FLASH
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6194.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 THE LEAGUE
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6193.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 THE OFFICE
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6192.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 TOY STORY MOVIES
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6183.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 TRANSFORMERS
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6092.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 TRUE BLOOD
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6186.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 WEEDS
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6177.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 WESTWORLD
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6176.m3u8
 
 

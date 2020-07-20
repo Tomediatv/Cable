@@ -14,27 +14,6 @@ http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9380.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BEK Sports
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/7033.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Bein Sports 1
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/15178.m3u8
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Bein Sports 2
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/15177.m3u8
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Bein Sports 4
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/15175.m3u8
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Bein Sports 5
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/15174.m3u8
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Bein Sports 6
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/15173.m3u8
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Bein Sports 7
-http://ingrid.ltd:25461/Gilberto1/Gilberto/15172
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Bein Sports 8
-http://ingrid.ltd:25461/Gilberto1/Gilberto/15171
-
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Eurosport 1
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/4931.m3u8
 

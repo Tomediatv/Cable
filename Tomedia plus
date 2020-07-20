@@ -1,4 +1,234 @@
 #EXTM3U 
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",AU | Fox Sports News,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/smyvTHD.jpg" group-title="Sport",World Of Free Sports TV
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAQcPe.png" group-title="Sport",SPORTS TV [HD]
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BEIN Sports
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9380.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BEK Sports
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/7033.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Bein Sports 1
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/15178.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Bein Sports 2
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/15177.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Bein Sports 4
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/15175.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Bein Sports 5
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/15174.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Bein Sports 6
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/15173.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Bein Sports 7
+http://ingrid.ltd:25461/Gilberto1/Gilberto/15172
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Bein Sports 8
+http://ingrid.ltd:25461/Gilberto1/Gilberto/15171
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ELEVEN SPORTS HD
+http://securetv.net:8080/zguyMk8K8P/7602260256/23327
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Esports TV
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/525.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Eurosport 1
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/4931.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Eurosport 2
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/4932.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS DETROIT
+http://securetv.net:8080/live/zguyMk8K8P/7602260256/31589.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS NORTH
+http://securetv.net:8080/zguyMk8K8P/7602260256/31587
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS PRIME TICKET
+http://securetv.net:8080/live/zguyMk8K8P/7602260256/31585.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS SAN DIEGO
+http://securetv.net:8080/zguyMk8K8P/7602260256/31584
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS SOUTHEAST
+http://securetv.net:8080/live/zguyMk8K8P/7602260256/31582.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX Sports 2
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9000.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox College Sports Atlantic
+http://ingrid.ltd:25461/Gilberto1/Gilberto/12596
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports 1 HD
+http://securetv.net:8080/live/zguyMk8K8P/7602260256/15948.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports 2 HD
+http://ingrid.ltd:25461/Gilberto1/Gilberto/5506
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports 502 (Australia)
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/4955.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports 503 (Australia)
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/4956.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports 504 (Australia)
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/4957.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports 505 (Australia)
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/4958.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports 506 (Australia)
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/4959.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports 507 (Australia)
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/4960.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports Arizona HD
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/5944.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports Carolinas HD
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/19868.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports Cincinnati
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/510.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports Cincinnati Plus
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6337.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports Deportes
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/485.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports Detroit
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/486.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports Detroit Plus
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6334.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports Midwest
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/496.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports New Orleans
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6335.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports New Orleans Plus
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6336.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports (Network) HD
+http://securetv.net:8080/zguyMk8K8P/7602260256/28740
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports (Philadelphia) HD
+http://securetv.net:8080/live/zguyMk8K8P/7602260256/28738.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Bay Area
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/527.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Bay Area+
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/42334.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Boston
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6233.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Chicago
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/530.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Chicago Plus
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/42336.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Washington
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6232.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Washington Plus
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/42338.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",PRO Sports
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9489.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",SPORTSMAN CHANNEL
+http://securetv.net:8080/live/zguyMk8K8P/7602260256/23204.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",SPORTSMAX
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9709.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",SPORTSMAX2
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9048.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",SPORTSPASS 01
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/8277.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",SPORTSPASS 02
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/8278.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",SPORTSPASS 03
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/8279.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",SPORTSPASS 04
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/8280.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="Sport",STIRR Sports,US | STIRR Sports
+https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Spectrum Sportsnet
+http://ingrid.ltd:25461/Gilberto1/Gilberto/42572
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Spectrum Sportsnet Dodgers
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/5.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Spectrum Sportsnet Lakers
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Sports Net 360 HD
+http://securetv.net:8080/live/zguyMk8K8P/7602260256/15938.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Sports Net 360 HD
+http://securetv.net:8080/zguyMk8K8P/7602260256/15938
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Sports Net One HD
+http://securetv.net:8080/live/zguyMk8K8P/7602260256/15930.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",SportsNet Southwest
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/42332.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Sportsman Channel
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/341.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Sportsnet LA
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41829
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Wowza3 NBC SPORTS
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9285.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN Sports 1 (Australia)
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/4950.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN Sports 2 (Australia)
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/4951.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN Sports 3 (Australia)
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/4952.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",GINXE Sports (Gaming Channel)
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/22940.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Marquee Sports Network (HD)
+http://ingrid.ltd:25461/Gilberto1/Gilberto/42446
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC SPORTS (BAY AREA) HD
+http://securetv.net:8080/zguyMk8K8P/7602260256/28744
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports (Network) HD
+http://securetv.net:8080/zguyMk8K8P/7602260256/28740
 
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",7
 http://spacetv.in/stream/DVB2D6AE8CU/27.m3u8

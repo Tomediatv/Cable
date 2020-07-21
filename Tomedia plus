@@ -17,58 +17,47 @@ http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6926.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids",Disney XD (MEX)
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/794.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO
-http://securetv.net:8080/zguyMk8K8P/7602260256/15913
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2 West
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6305.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO COMEDY HD1
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO COMEDY HD
 http://securetv.net:8080/live/zguyMk8K8P/7602260256/23303.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy East1
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy East
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/29.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO East1
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6345.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO FAMILY HD1
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO FAMILY HD
 http://securetv.net:8080/live/zguyMk8K8P/7602260256/23301.m3u8
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Family
-http://securetv.net:8080/live/zguyMk8K8P/7602260256/22516.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Family West1
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6307.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO HD1
-http://securetv.net:8080/live/zguyMk8K8P/7602260256/23300.m3u8
-
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO POP
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9486.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature1
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature 1
 http://securetv.net:8080/live/zguyMk8K8P/7602260256/15915.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature West
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature 2
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6308.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO West
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6237.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO West
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6346.m3u8
-
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO XTREME
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9487.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO ZONE HD1
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO ZONE HD
 http://securetv.net:8080/live/zguyMk8K8P/7602260256/23299.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Zone West
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6309.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Wowza3 HBO PLUS
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO PLUS
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9278.m3u8
 
 #EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",AU | Fox Sports News,Fox Sports News
@@ -77,7 +66,7 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/smyvTHD.jpg" group-title="Sport",World Of Free Sports TV
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAQcPe.png" group-title="Sport",SPORTS TV [HD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAQcPe.png" group-title="Sport",SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BEIN Sports
@@ -98,13 +87,13 @@ http://securetv.net:8080/live/zguyMk8K8P/7602260256/31585.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS SOUTHEAST
 http://securetv.net:8080/live/zguyMk8K8P/7602260256/31582.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX Sport HD 1
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX Sport HD
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX Sports 2
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9000.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports 1 HD
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports 1 
 http://securetv.net:8080/live/zguyMk8K8P/7602260256/15948.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports 502 (Australia)
@@ -137,9 +126,6 @@ http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/510.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports Cincinnati Plus
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6337.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports Deportes
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/485.m3u8
-
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports Detroit
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/486.m3u8
 
@@ -159,9 +145,6 @@ http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6336.m3u8
 http://securetv.net:8080/live/zguyMk8K8P/7602260256/28738.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Bay Area
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/527.m3u8
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Bay Area+
 http://ingrid.ltd:25461/live/Gilberto1/Gilberto/42334.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Boston
@@ -211,9 +194,6 @@ http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/5.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Spectrum Sportsnet Lakers
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6.m3u8
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Sports Net 360 HD
-http://securetv.net:8080/live/zguyMk8K8P/7602260256/15938.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Sportsman Channel
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/341.m3u8
@@ -271,7 +251,7 @@ http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6073.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 KEVIN COSTNER
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6075.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 LEONARDO DiCAPRIO
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 LEONARDO DICAPRIO
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6076.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 LIAM NEESON MOVIES
@@ -348,12 +328,6 @@ http://ingrid.ltd:25461/live/Gilberto1/Gilberto/19652.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Chicago CBSNEWS
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/10184.m3u8
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Chicago Fire
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6913.m3u8
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Chicago P.D.
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6914.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Chicago, Illinois CBS 2 (WBBM)
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/5507.m3u8

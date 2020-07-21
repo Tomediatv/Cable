@@ -356,3 +356,34 @@ http://ingrid.ltd:25461/live/Gilberto1/Gilberto/42336.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WGN HD Chicago
 http://ingrid.ltd:25461/live/Gilberto1/Gilberto/7958.m3u8
+
+#EXTINF:0 tvg-country="CZ;SK" tvg-logo="http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png" group-title="Fashion;Undefined",Fashion TV,FashionTV Czech&Slovak
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",FashionTV
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/5106.m3u8
+
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",WFC TV International,World Fashion Channel International
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8
+
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",WFC TV,World Fashion Channel Россия
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8
+
+#EXTINF:0 tvg-country="UA" tvg-logo="https://i.imgur.com/LtQL1q9.jpg" group-title="Fashion;Undefined",(ONLINE) HD Fashion,HDFashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Undefined",Odessa Fashion TV
+http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DSTV: Fashion One
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/4593.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="https://www.parsatv.com/index_files/channels/worldfashion.jpg" group-title="Undefined",World Fashion
+https://wfc.bonus-tv.ru/cdn/wfcrus/tracks-v3a1/mono.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/y8wzxRP.jpg" group-title="Undefined",Global Fashion Channel,US | Global Fashion Channel
+https://a.jsrdn.com/broadcast/33ee2rtf5/seglist_720p.m3u8
+
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK FASHION
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/818
+

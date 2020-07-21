@@ -1,5 +1,4 @@
 #EXTM3U 
-
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",UK - Disney Channel
 http://securetv.net:8080/live/zguyMk8K8P/7602260256/1272.m3u8
 
@@ -15,26 +14,19 @@ http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/371.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Disney XD
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6926.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids",Disney XD (MEX)
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/794.m3u8
-
-
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2 West
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6305.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO COMEDY HD
-http://securetv.net:8080/live/zguyMk8K8P/7602260256/23303.m3u8
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy East
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/29.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO East1
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO East
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6345.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO FAMILY HD
 http://securetv.net:8080/live/zguyMk8K8P/7602260256/23301.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Family West1
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Family West
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6307.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO POP
@@ -386,4 +378,3 @@ https://a.jsrdn.com/broadcast/33ee2rtf5/seglist_720p.m3u8
 
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK FASHION
 http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/818
-

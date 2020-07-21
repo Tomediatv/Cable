@@ -1,5 +1,4 @@
-#EXTM3U
-
+#EXTM3U 
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",UK - Disney Channel
 http://securetv.net:8080/live/zguyMk8K8P/7602260256/1272.m3u8
 
@@ -373,4 +372,29 @@ https://wfc.bonus-tv.ru/cdn/wfcrus/tracks-v3a1/mono.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/y8wzxRP.jpg" group-title="Undefined",Global Fashion Channel,US | Global Fashion Channel
 https://a.jsrdn.com/broadcast/33ee2rtf5/seglist_720p.m3u8
+
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Much Music
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/261.m3u8
+
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",1HD Music TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",First Music (Opt-1)
+http://rtmp.one.by:2300/
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",30A Music
+http://30a-tv.com/music.m3u8?iptvm3uplaylists.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",DSTV: MTV Music 24
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/4605.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Music : CH AU Latvia
+https://video.chaula.tv/hls/live/high/playlist_high.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Music : V2BEAT
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" group-title="Music;Undefined",California Music Channel,California Music Channel (Opt-2)
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
 

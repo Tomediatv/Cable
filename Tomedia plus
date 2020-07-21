@@ -349,9 +349,6 @@ http://ingrid.ltd:25461/live/Gilberto1/Gilberto/42336.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WGN HD Chicago
 http://ingrid.ltd:25461/live/Gilberto1/Gilberto/7958.m3u8
 
-#EXTINF:0 tvg-country="CZ;SK" tvg-logo="http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png" group-title="Fashion;Undefined",Fashion TV,FashionTV Czech&Slovak
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",FashionTV
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/5106.m3u8
 
@@ -376,5 +373,3 @@ https://wfc.bonus-tv.ru/cdn/wfcrus/tracks-v3a1/mono.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/y8wzxRP.jpg" group-title="Undefined",Global Fashion Channel,US | Global Fashion Channel
 https://a.jsrdn.com/broadcast/33ee2rtf5/seglist_720p.m3u8
 
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",PINK FASHION
-http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/818

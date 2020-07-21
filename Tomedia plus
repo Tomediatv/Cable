@@ -337,4 +337,48 @@ http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6177.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 WESTWORLD
 http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6176.m3u8
 
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC HD Chicago IL
+http://ingrid.ltd:25461/Gilberto1/Gilberto/19839
 
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CSN Chicago Plus HD
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/6047.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CSN SN Chicago HD
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/19652.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Chicago CBSNEWS
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/10184.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Chicago Fire
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6913.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Chicago P.D.
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/6914.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Chicago, Illinois CBS 2 (WBBM)
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/5507.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Illinois, Chicago ABC 7 (WLS)
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/5916.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Illinois, Chicago CBS 2 (WBBM)
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/5899.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Illinois, Chicago FOX 32 (WFLD)
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/5955.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Illinois, Chicago MY50 (WPWR)
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/5567.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Illinois, Chicago NBC 5 (WMAQ)
+http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/5935.m3u8
+
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports (Chicago) HD
+http://securetv.net:8080/live/zguyMk8K8P/7602260256/28741.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Chicago Plus
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/42336.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WGN HD Chicago
+http://ingrid.ltd:25461/live/Gilberto1/Gilberto/7958.m3u8
